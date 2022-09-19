@@ -1,0 +1,64 @@
+
+body {
+  background-color: #e1dee9;
+  font-color: #b07b6f;
+
+}
+
+h1 {
+  background-color: #d5cfe1;
+  color: #b6a6ca;
+  margin-left:10px;
+}
+#personal img {
+  float: left;
+}
+#table {
+  clear: left;
+}
+h2 {
+  background-color: #b6a6ca;
+  color: #d5cfe1;
+  margin-left:10px;
+}
+h3 {
+  background-color: #d5cfe1;
+  color: #b6a6ca;
+  margin-left:10px;
+}
+#job img {
+  float: right;
+  margin-right:320px;
+}
+p4 {
+  float: right;
+  margin-right: 600px;
+}
+h4 {
+  background-color: #b6a6ca;
+  color: #d5cfe1;
+  margin-left:10px;
+}
+
+    .images-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .images-container img {
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+
+
+/*.center {
+  margin-left: 200px;
+  margin-right: 3000px;
+  width: 20%;
+}*/
+
+h5 {
+  background-color: #d5cfe1;
+  color: #b6a6ca;
+  margin-left:10px;
+}
